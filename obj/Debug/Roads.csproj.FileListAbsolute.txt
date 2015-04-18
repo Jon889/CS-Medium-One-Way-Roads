@@ -1,0 +1,10 @@
+C:\Users\jonathan\documents\visual studio 2010\Projects\Roads\Roads\bin\Debug\Roads.dll
+C:\Users\jonathan\documents\visual studio 2010\Projects\Roads\Roads\bin\Debug\Roads.pdb
+C:\Users\jonathan\documents\visual studio 2010\Projects\Roads\Roads\bin\Debug\Assembly-CSharp.dll
+C:\Users\jonathan\documents\visual studio 2010\Projects\Roads\Roads\bin\Debug\ColossalManaged.dll
+C:\Users\jonathan\documents\visual studio 2010\Projects\Roads\Roads\bin\Debug\ICities.dll
+C:\Users\jonathan\documents\visual studio 2010\Projects\Roads\Roads\bin\Debug\UnityEngine.dll
+C:\Users\jonathan\documents\visual studio 2010\Projects\Roads\Roads\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\jonathan\documents\visual studio 2010\Projects\Roads\Roads\obj\Debug\Roads.dll
+C:\Users\jonathan\documents\visual studio 2010\Projects\Roads\Roads\obj\Debug\Roads.pdb
+C:\Users\jonathan\Documents\Visual Studio 2010\Projects\Roads\Roads\obj\Debug\Roads.csprojResolveAssemblyReference.cache
